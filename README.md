@@ -7,6 +7,12 @@ This device was developed to increase coating efficiency, ensure uniform coating
 
 The project was developed as part of a **Capstone Design Project at IPB University** in the Department of Mechanical and Biosystem Engineering.
 
+<p align="center">
+  <img src="Prototype1.jpeg" width="400" />
+  <img src="Prototype2.jpeg" width="400" />
+</p>
+
+
 ---
 
 ## Problem Statement
