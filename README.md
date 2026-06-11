@@ -1,4 +1,4 @@
-# CHER-FARS : Design of a Semi-Automatic Edible Coating Device for Cherry Tomatoes to Extend Their Shelf Life
+# CHER-FARS : Semi-Automatic Edible Coating Device for Cherry Tomatoes to Extend Their Shelf Life
 
 ## Overview
 **CHER-FARS** is a semi-automatic edible coating device designed to improve the shelf life of cherry tomatoes. The system applies an edible coating solution using a dipping mechanism followed by a controlled drying process. 
