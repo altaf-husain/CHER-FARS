@@ -3,17 +3,13 @@
 ## Overview
 **CHER-FARS** is a semi-automatic edible coating device designed to improve the shelf life of cherry tomatoes. The system applies an edible coating solution using a dipping mechanism followed by a controlled drying process. 
 
-This device was developed to increase coating efficiency, ensure uniform coating thickness, reduce labor requirements, and improve the preservation of cherry tomatoes during storage.
-
-The project was developed as part of a **Capstone Design Project at IPB University** in the Department of Mechanical and Biosystem Engineering.
+I developed this machine as part of my capstone course project at IPB University with my team. The system uses a simple Arduino-based control program and a screw-driven linear actuator. I chose this mechanism because the load is approximately 2 kg, which requires high torque. To achieve this, I used a stepper motor combined with a lead screw mechanism, allowing the system to generate greater force and provide precise linear motion. This device was developed to increase coating efficiency, ensure uniform coating thickness, reduce labor requirements, and improve the preservation of cherry tomatoes during storage.
 
 <p align="center">
   <img src="Prototype1.jpeg" width="400" />
   <img src="Prototype2.jpeg" width="400" />
 </p>
 
-
----
 
 ## Problem Statement
 Cherry tomatoes have a relatively short shelf life, typically lasting only **3–4 days in fresh condition** before quality degradation occurs.
@@ -48,30 +44,17 @@ The objective of this project is:
 
 ---
 
-## Production Cost
-| Component | Cost |
-|----------|------|
-| Material Cost | Rp 809,000 |
-| Other Costs | Rp 125,000 |
-| **Total Cost** | **Rp 934,000** |
-
----
-
 ## System Components
 The main components used in CHER-FARS include:
 - DC Motor
 - V-Slot Aluminum Frame
-- V-Belt Transmission
-- Pulley System
-- Linear Actuator
 - AC-DC Converter
 - Arduino Nano
 - Relay 12V
 - Cooling Fan
 - Control Button
-- Electrical Wiring
-- Solution Container (13 L capacity)
-- Tomato Basket Filter (1.5 kg capacity)
+- Container (13 L capacity)
+- Frying Basket Filter (1.5 kg capacity)
 
 ---
 
@@ -91,37 +74,6 @@ After dipping, the tomatoes undergo a **drying process for 10 minutes** using ai
 ### 4. Unloading
 Once the drying process is completed, the coated tomatoes are removed from the basket.
 
----
-
-## Experimental Results
-
-The experiment evaluated **weight loss of cherry tomatoes during storage**.
-
-### Observation
-Cherry tomatoes coated with **chitosan edible coating** showed **lower weight loss** compared to uncoated samples.
-
-### Conclusion from Graph
-- Control tomatoes experienced the highest weight loss.
-- Coated tomatoes maintained better moisture retention.
-- Edible coating effectively slowed down the deterioration process.
-
----
-
-## Advantages of CHER-FARS
-- ⏱ **Improves processing efficiency**
-- 👨‍🔧 Requires only **1–2 operators**
-- 🍅 Produces **uniform coating distribution**
-- 🧼 More **hygienic and reduces contamination risk**
-- ♻️ Reduces **material waste during coating**
-
----
-
-## Comparison with Conventional Method
-| Indicator | CHER-FARS | Manual Method |
-|----------|-----------|--------------|
-| Processing Speed | Very Fast | Slow |
-| Labor Requirement | 1–2 people | 3–4 people |
-| Coating Thickness | Uniform & consistent | Variable |
 
 ## Authors
 Capstone Design Team
